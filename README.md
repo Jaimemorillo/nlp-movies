@@ -9,4 +9,3 @@ We predict the genres of a movie from its summary (overview).
 - Open the notebook in kaggle https://www.kaggle.com/jaimemorillo/genre-prediction-with-distilbert.
 - Click on "Copy & Edit" to run it.
 - You must be registered to run it on GPU.
-- 
